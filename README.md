@@ -1,0 +1,1 @@
+# Mixed-plus-minus-interaction-conflict-model
